@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://paiols.github.io/sitemap/sitemap.txt
